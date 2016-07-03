@@ -19,6 +19,7 @@
 
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint *separatorLineHeightConstraint;
 @property (nonatomic, weak) IBOutlet NSLayoutConstraint *buttonsContainerHeightConstraint;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint *tabbarHeight;
 
 @property (nonatomic, strong) NSMutableDictionary *controllers;
 @property (nonatomic, strong) NSMutableDictionary *actions;

@@ -40,7 +40,7 @@
           forState:UIControlStateNormal];
     
     // And its background color should always be the selected color.
-    self.backgroundColor = selectedColor;
+//    self.backgroundColor = selectedColor;
 }
 
 

@@ -1,2 +1,4 @@
-pod 'ESTabBarController', path: '..'
-pod 'UIColor-HexString'
+target 'Example' do
+  pod 'ESTabBarController', path: '..'
+  pod 'UIColor-HexString'
+end
